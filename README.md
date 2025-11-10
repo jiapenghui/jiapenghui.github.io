@@ -47,22 +47,22 @@
 <p align="center">
   <!- 动态生成的GitHub统计卡片 ->
   <!- 源码：https://github.com/anuraghazra/github-readme-stats ->
-  <img src="https://github-readme-stats.vercel.app/api?username=[你的GitHub用户名]&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Your GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jiapenghui&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Your GitHub Stats" height="165" />
   <!- 最常用语言统计 ->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[你的GitHub用户名]&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiapenghui&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="165" />
 </p>
 
 <p align="center">
   <!- GitHub连续贡献图（贪吃蛇动画） ->
   <!- 源码：https://github.com/Platane/snk ->
-  <img src="https://raw.githubusercontent.com/[你的GitHub用户名]/[你的GitHub用户名]/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/jiapenghui/jiapenghui.github.io/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 <!- 奖杯 ->
 <p align="center">
   <!- GitHub奖杯 ->
   <!- 源码：https://github.com/ryo-ma/github-profile-trophy ->
-  <img src="https://github-profile-trophy.vercel.app/?username=[你的GitHub用户名]&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jiapenghui&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 <!- 项目亮点 ->
@@ -78,7 +78,7 @@
 <!- 源码：https://github.com/Ashutosh00710/github-readme-activity-graph ->
 <!--
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[你的GitHub用户名]&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiapenghui&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </p>
 -->
 
@@ -106,7 +106,7 @@
 
 <p align="center">
   <!- 访客计数 ->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=[你的GitHub用户名].[你的GitHub用户名]" alt="Visitors Count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jiapenghui.jiapenghui" alt="Visitors Count" />
 </p>
 
 <!- 趣味结尾，如打字特效 ->
